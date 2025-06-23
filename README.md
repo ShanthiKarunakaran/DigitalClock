@@ -12,5 +12,14 @@ A simple digital clock built with HTML, CSS, and JavaScript. Displays current ti
 - CSS3
 - Vanilla JavaScript
 
-## 📁 File Structure
+## Key Features
+- showing the Clock in real time using Javascript's Date object
+- Converts system time to 12 hour format with AM/PM
+- Responsive, scales well in Mobile and desktop
+
+## References
+- Google fonts 
+
+
+
 
